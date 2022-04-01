@@ -1,0 +1,18 @@
+Starting Laravel development server: http://0.0.0.0:8000
+[Fri Apr  1 06:41:20 2022] 192.168.177.121:31308 Invalid request (Unsupported SSL request)
+[Fri Apr  1 06:41:20 2022] 192.168.177.121:31307 Invalid request (Unsupported SSL request)
+[Fri Apr  1 06:41:20 2022] 192.168.177.121:31310 Invalid request (Unsupported SSL request)
+[Fri Apr  1 06:41:20 2022] 192.168.177.121:31311 Invalid request (Unsupported SSL request)
+[Fri Apr  1 06:41:21 2022] 192.168.177.121:31312 Invalid request (Unsupported SSL request)
+[Fri Apr  1 06:41:21 2022] 192.168.177.121:31313 Invalid request (Unsupported SSL request)
+[Fri Apr  1 06:41:21 2022] 192.168.177.121:31316 Invalid request (Unsupported SSL request)
+[Fri Apr  1 06:41:21 2022] 192.168.177.121:31315 Invalid request (Unsupported SSL request)
+[Fri Apr  1 06:41:26 2022] 192.168.177.121:31317 Invalid request (Unsupported SSL request)
+[Fri Apr  1 06:41:26 2022] 192.168.177.121:31318 Invalid request (Unsupported SSL request)
+[Fri Apr  1 06:41:26 2022] 192.168.177.121:31320 Invalid request (Unsupported SSL request)
+[Fri Apr  1 06:41:26 2022] 192.168.177.121:31321 Invalid request (Unsupported SSL request)
+[Fri Apr  1 06:41:29 2022] 192.168.177.121:31324 [200]: /favicon.ico
+[Fri Apr  1 06:47:02 2022] 192.168.177.121:31376 [200]: /favicon.ico
+[Fri Apr  1 06:51:39 2022] 192.168.177.121:31417 [200]: /favicon.ico
+[Fri Apr  1 06:52:41 2022] 192.168.177.121:31420 [200]: /favicon.ico
+[Fri Apr  1 06:57:49 2022] 192.168.177.121:31454 [200]: /favicon.ico
